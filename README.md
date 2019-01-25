@@ -10,6 +10,8 @@ Note: Behavior becomes unpredictable when using non-ASCII character file encodin
 
 Encluded are some sample files: data1.txt, data2.txt, data3.txt, data4.txt, data5.txt
 
+When prompted the user must enter in the full name of the file they wish to compress.
+
 An image of sample input:
 
 ![Image](https://user-images.githubusercontent.com/42820224/51720024-add4bd00-2000-11e9-902e-19800339786c.PNG)
