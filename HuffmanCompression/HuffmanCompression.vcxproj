@@ -118,12 +118,12 @@
     <ClCompile Include="compression.cpp" />
     <ClCompile Include="controller.cpp" />
     <ClCompile Include="decompression.cpp" />
-    <ClCompile Include="mian.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="node.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="compression.h" />
-    <ClInclude Include="contoller.h" />
+    <ClInclude Include="controller.h" />
     <ClInclude Include="decompression.h" />
     <ClInclude Include="node.h" />
   </ItemGroup>

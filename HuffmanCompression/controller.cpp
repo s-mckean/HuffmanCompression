@@ -4,7 +4,7 @@ Author: Spencer McKean
 Description: functions required for both compression and decompresssion of Huffman encoding
 *********************************************************************************************************/
 
-#include "contoller.h"
+#include "controller.h"
 #include <fstream>
 #include <iostream>
 #include <list>

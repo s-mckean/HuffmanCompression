@@ -7,7 +7,7 @@ Description: Header for compresssion.cpp
 #ifndef COMPRESSION_H
 #define COMPRESSION_H
 
-#include "contoller.h"
+#include "controller.h"
 
 /*Function to be called in order to compress a file*/
 void Compress(string filename);
