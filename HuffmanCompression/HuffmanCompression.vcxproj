@@ -115,12 +115,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="compression.cpp" />
     <ClCompile Include="controller.cpp" />
+    <ClCompile Include="decompression.cpp" />
     <ClCompile Include="mian.cpp" />
     <ClCompile Include="node.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="compression.h" />
     <ClInclude Include="contoller.h" />
+    <ClInclude Include="decompression.h" />
     <ClInclude Include="node.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

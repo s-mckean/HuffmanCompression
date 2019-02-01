@@ -12,7 +12,8 @@ Notes: Behavior becomes unpredictable when using non-ASCII character file encodi
 *********************************************************************************************************/
 
 #include <iostream>
-#include "contoller.h"
+#include "compression.h"
+#include "decompression.h"
 using namespace std;
 
 int main() {
