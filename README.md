@@ -31,7 +31,9 @@ An image of example user input:
 ## File Structure:
 
 README.md
+
 HuffmanCompression.sln
+
 HuffmanCompression(folder):
 
 	-> data1.txt - sample input file
