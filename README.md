@@ -8,7 +8,7 @@ __decompressed.txt will be identical to the text file that the user input.
 
 Note: Behavior becomes unpredictable when using non-ASCII character file encoding.
 
-Encluded are some sample files: data1.txt, data2.txt, data3.txt, data4.txt, data5.txt
+Included are some sample files: data1.txt, data2.txt, data3.txt, data4.txt, data5.txt
 
 When prompted the user must enter in the full name of the file they wish to compress.
 
