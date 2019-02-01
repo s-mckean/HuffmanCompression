@@ -6,7 +6,7 @@ Project Start Date: 	 12/7/18
 Project Completion Date: 12/18/18
 Restructured on 2/1/19
 
-# Description
+## Description
 
 A program that takes a text file input and implements Huffman encoding on it.
 Using the letters' encoding it will compress the file into another text file, __compressed.txt.
@@ -26,7 +26,7 @@ An image of example user input:
 
 ![Image](https://user-images.githubusercontent.com/42820224/51720024-add4bd00-2000-11e9-902e-19800339786c.PNG)
 
-# File Structure:
+## File Structure:
 
 HuffmanCompression(folder):
 	-> data1.txt - sample input file
