@@ -29,6 +29,7 @@ An image of example user input:
 ## File Structure:
 
 HuffmanCompression(folder):
+
 	-> data1.txt - sample input file
 	-> data2.txt - sample input file
 	-> data3.txt - sample input file
