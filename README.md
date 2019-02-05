@@ -2,11 +2,7 @@
 
 Author: Spencer McKean
 
-Project Start Date: 	 12/7/18
-
-Project Completion Date: 12/18/18
-
-Restructured on 2/1/19
+Code last modified on 2/1/19
 
 ## Description
 
