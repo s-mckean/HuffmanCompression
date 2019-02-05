@@ -30,28 +30,25 @@ An image of example user input:
 
 ## File Structure:
 
-README.md
+	README.md				- README
+	HuffmanCompression.sln			- Visual Studio .sln file
+	HuffmanCompression(folder):
+		-> data1.txt 			- sample input file
+		-> data2.txt 			- sample input file
+		-> data3.txt 			- sample input file
+		-> data4.txt 			- sample input file
+		-> data5.txt 			- sample input file
 
-HuffmanCompression.sln
+		-> __compression.txt  		- output file with compressed version of the input file
+		-> __decompressed.txt 		- output file of decompressed version of __compression.txt
 
-HuffmanCompression(folder):
+		-> node.h			- header for the 'Node' class
+		-> controller.h			- header for controller.cpp
+		-> compression.h		- header for compression.cpp
+		-> decompresssion.h		- header for decompresssion.cpp
 
-	-> data1.txt - sample input file
-	-> data2.txt - sample input file
-	-> data3.txt - sample input file
-	-> data4.txt - sample input file
-	-> data5.txt - sample input file
-	
-	-> __compression.txt  - output file with compressed version of the input file
-	-> __decompressed.txt - output file of decompressed version of __compression.txt
-
-	-> node.h		- header for node.cpp
-	-> controller.h		- header for controller.cpp
-	-> compression.h	- header for compression.cpp
-	-> decompresssion.h	- header for decompresssion.cpp
-
-	-> node.cpp		- contains information for letter nodes used in assigning bit values to each letter
-	-> controller.cpp	- functions to manipulate files used in both compresssion and decompression
-	-> compresssion.cpp	- used to manipulate input file for compression
-	-> decompresssion.cpp	- used to manipulate input file for decompresssion
-	-> main.cpp		- to run compresssion and decompression on user inputed file
+		-> node.cpp			- contains information for letter nodes used in assigning bit values to each letter
+		-> controller.cpp		- functions to manipulate files used in both compresssion and decompression
+		-> compresssion.cpp		- used to manipulate input file for compression
+		-> decompresssion.cpp		- used to manipulate input file for decompresssion
+		-> main.cpp			- to run compresssion and decompression on user inputed file
