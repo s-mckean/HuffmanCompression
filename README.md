@@ -4,6 +4,8 @@ Author: Spencer McKean
 
 Code last modified on 2/1/19
 
+GitHub Link: https://github.com/s-mckean/HuffmanCompression
+
 ## Description
 
 A program that takes a text file input and implements Huffman encoding on it.
